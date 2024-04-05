@@ -1,4 +1,5 @@
 {
+    "id": "unbound.test",
     "name": "Test",
     "iconType": "basic",
     "icon": "debug",
