@@ -1,0 +1,26 @@
+{
+    "name": "Test",
+    "iconType": "basic",
+    "icon": "debug",
+    "description": "a real repo for real unbound things",
+    "tags": [ "icon packs", "exploding" ],
+    "addons": [
+        {
+            "name": "Plumpy",
+            "type": "icons",
+            "iconType": "custom",
+            "icon": {
+                "uri": "https://github.com/unbound-mod/icons/blob/main/packs/Plumpy/modules/main_tabs_v2/native/images/tab-guilds@3x.png?raw=true"
+            },
+            "screenshots": [
+                "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/Discord.png",
+                "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/Discord.png",
+                "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/Discord.png",
+                "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/Discord.png"
+            ],
+            "changelog": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/changelog.json",
+            "readme": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/README.md",
+            "manifest": "https://raw.githubusercontent.com/unbound-mod/icons/main/packs/Plumpy/manifest.json"
+        }
+    ]
+}
