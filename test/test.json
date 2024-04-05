@@ -8,7 +8,7 @@
     "addons": [
         {
             "name": "Plumpy",
-            "type": "icons",
+            "type": "pack",
             "iconType": "custom",
             "icon": {
                 "uri": "https://github.com/unbound-mod/icons/blob/main/packs/Plumpy/modules/main_tabs_v2/native/images/tab-guilds@3x.png?raw=true"
