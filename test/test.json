@@ -7,12 +7,7 @@
     "tags": [ "icon packs", "exploding" ],
     "addons": [
         {
-            "name": "Plumpy",
-            "type": "pack",
-            "iconType": "custom",
-            "icon": {
-                "uri": "https://github.com/unbound-mod/icons/blob/main/packs/Plumpy/modules/main_tabs_v2/native/images/tab-guilds@3x.png?raw=true"
-            },
+            "type": "Icons",
             "screenshots": [
                 "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/Discord.png",
                 "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/Discord.png",
