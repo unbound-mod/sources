@@ -17,6 +17,18 @@
             "changelog": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/changelog.json",
             "readme": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/README.md",
             "manifest": "https://raw.githubusercontent.com/unbound-mod/icons/main/packs/Plumpy/manifest.json"
+        },
+        {
+            "type": "Icons",
+            "screenshots": [
+                "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Iconsax/Discord.png",
+                "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Iconsax/Discord.png",
+                "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Iconsax/Discord.png",
+                "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Iconsax/Discord.png"
+            ],
+            "changelog": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Iconsax/changelog.json",
+            "readme": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Iconsax/README.md",
+            "manifest": "https://raw.githubusercontent.com/unbound-mod/icons/main/packs/Iconsax/manifest.json"
         }
     ]
 }
