@@ -1,7 +1,6 @@
 {
     "id": "unbound.test",
     "name": "Test",
-    "iconType": "basic",
     "icon": "debug",
     "description": "a real repo for real unbound things",
     "tags": [ "icon packs", "exploding" ],
