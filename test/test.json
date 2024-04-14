@@ -15,7 +15,11 @@
             ],
             "changelog": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/changelog.json",
             "readme": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/README.md",
-            "manifest": "https://raw.githubusercontent.com/unbound-mod/icons/main/packs/Plumpy/manifest.json"
+            "manifest": "https://raw.githubusercontent.com/unbound-mod/icons/main/packs/Plumpy/manifest.json",
+            "suggest": [
+                "rosie.iconsax",
+                "panniku.md3"
+            ]
         },
         {
             "type": "Icons",
