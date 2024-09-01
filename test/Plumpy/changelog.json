@@ -1,18 +1,31 @@
 {
-    "1.0.2": [
-        "Fix 14 bugs",
-        "Fix 14 bugs",
-        "Fix 14 bugs",
-        "Fix 14 bugs",
-        "Fix 14 bugs",
-        "Fix 14 bugs",
-        "Fix 14 bugs",
-        "Fix 14 bugs"
-    ],
-    "1.0.1": [
-        "Add meowing"
-    ],
-    "1.0.0": [
-        "Initial commit"
-    ]
+    "1.0.0": {
+        "date": 1713164823,
+        "sections": [
+            {
+                "title": "Fixed thing",
+                "variant": "positive",
+                "items": [
+                    "Annoying bug 1",
+                    "Annoying bug 2"
+                ]
+            },
+            {
+                "title": "Added some new feature",
+                "variant": "positive",
+                "items": [
+                    "We *finally* added this feature",
+                    "We also did something else idk. More info [here](https://github.com/unbound-mod)",
+                    "The above was a markdown test (**if you couldn't tell**)"
+                ]
+            },
+            {
+                "title": "Broke",
+                "variant": "negative",
+                "items": [
+                    "Everything"
+                ]
+            }
+        ]
+    }
 }

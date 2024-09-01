@@ -1,40 +1,37 @@
 {
-    "id": "unbound.test",
-    "name": "Test",
-    "icon": "debug",
-    "description": "a real repo for real unbound things",
-    "tags": [ "icon packs", "exploding" ],
-    "addons": [
-        {
-            "type": "Icons",
-            "screenshots": [
-                "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/Discord.png",
-                "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/Discord.png",
-                "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/Discord.png",
-                "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/Discord.png"
-            ],
-            "changelog": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/changelog.json",
-            "readme": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/README.md",
-            "manifest": "https://raw.githubusercontent.com/unbound-mod/icons/main/packs/Plumpy/manifest.json",
-            "suggest": [
-                "rosie.iconsax",
-                "panniku.md3"
-            ]
-        },
-        {
-            "type": "Icons",
-            "screenshots": [
-                "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Iconsax/Discord.png"
-            ],
-            "changelog": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Iconsax/changelog.json",
-            "readme": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Iconsax/README.md",
-            "manifest": "https://raw.githubusercontent.com/unbound-mod/icons/main/packs/Iconsax/manifest.json"
-        },
-        {
-            "type": "Icons",
-            "changelog": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/MaterialDesign3/changelog.json",
-            "readme": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/MaterialDesign3/README.md",
-            "manifest": "https://raw.githubusercontent.com/unbound-mod/icons/main/packs/MaterialDesign3/manifest.json"
-        }
-    ]
+  "id": "unbound.test",
+  "name": "Test",
+  "icon": "debug",
+  "description": "a real repo for real unbound things",
+  "tags": ["icon packs", "exploding"],
+  "addons": [
+    {
+      "type": "pack",
+      "screenshots": [
+        "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/Discord.png",
+        "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/Discord.png",
+        "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/Discord.png",
+        "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/Discord.png"
+      ],
+      "changelog": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/changelog.json",
+      "readme": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Plumpy/README.md",
+      "manifest": "https://raw.githubusercontent.com/unbound-mod/icons/main/packs/Plumpy/manifest.json",
+      "suggest": ["rosie.iconsax", "panniku.md3"]
+    },
+    {
+      "type": "pack",
+      "screenshots": [
+        "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Iconsax/Discord.png"
+      ],
+      "changelog": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Iconsax/changelog.json",
+      "readme": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/Iconsax/README.md",
+      "manifest": "https://raw.githubusercontent.com/unbound-mod/icons/main/packs/Iconsax/manifest.json"
+    },
+    {
+      "type": "pack",
+      "changelog": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/MaterialDesign3/changelog.json",
+      "readme": "https://raw.githubusercontent.com/unbound-mod/sources/main/test/MaterialDesign3/README.md",
+      "manifest": "https://raw.githubusercontent.com/unbound-mod/icons/main/packs/MaterialDesign3/manifest.json"
+    }
+  ]
 }
